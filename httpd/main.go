@@ -19,7 +19,7 @@ func main() {
 
 	fmt.Println(feed)
 
-	feed.Add(newsfeed.Item{"Hello", "How ya' doing mate?"})
+	feed.Add(newsfeed.Item{"Hello,", "How ya' doing mate?"})
 
 	fmt.Println(feed)
 
