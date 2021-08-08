@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	
+
 	"newsfeeder/handler"
 
-	"newsfeeder/platform/newsfeed"
+	//"newsfeeder/platform/newsfeed"
 
 	"github.com/gin-gonic/gin"
 )
